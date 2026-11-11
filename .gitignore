@@ -1,0 +1,8 @@
+target/
+*.class
+.DS_Store
+.idea/
+.vscode/
+*.iml
+save_*.txt
+/level1.txt
